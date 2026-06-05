@@ -1,0 +1,5 @@
+{
+  "API_KEY": "YOUR_GOOGLE_MAPS_API_KEY_HERE"
+}
+
+// Copy this file to gmaps-config.json and replace with your API key.

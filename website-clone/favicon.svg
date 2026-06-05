@@ -1,3 +1,7 @@
-<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="180" height="180" rx="36" fill="#FF3C00"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#0f4c81"/>
+  <circle cx="32" cy="24" r="14" fill="#fff"/>
+  <path d="M24 24h16" stroke="#0f4c81" stroke-width="3" stroke-linecap="round"/>
+  <path d="M24 30h16" stroke="#0f4c81" stroke-width="3" stroke-linecap="round"/>
+  <text x="32" y="54" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="700" fill="#fff">IMD</text>
 </svg>

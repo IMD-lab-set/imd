@@ -1,0 +1,4 @@
+.env
+
+# Do not commit local Google Maps API key
+website-clone/gmaps-config.json
